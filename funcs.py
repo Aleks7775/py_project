@@ -1,3 +1,6 @@
-def numbers(x,y):
-    sum = x + y
-    return sum
+def numbers(a, b):
+    return a + b
+
+
+def numbers_min(a, b):
+    return a - b
